@@ -1,6 +1,6 @@
 # Seminar- *Apache Kafka*
 
-**Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Chuyên đề chọn lọc trong Hệ thống thông tin.
+**Apache Kafka** là một repository trong đề tài tìm hiểu của lớp Chuyên đề chọn lọc trong Hệ thống thông tin.
 
 Thành viên:
 * [x] **1312393** Phùng Hải Nguyên (1312393)
