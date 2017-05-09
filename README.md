@@ -1,4 +1,4 @@
-# Seminar- *Tên đề tài*
+# Seminar- *Apache Kafka*
 
 **Tên đề tài** là một repository trong đề tài tìm hiểu của lớp Chuyên đề chọn lọc trong Hệ thống thông tin.
 
